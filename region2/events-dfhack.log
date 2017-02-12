@@ -32,3 +32,7 @@
 [2017-02-07T21:35:47+0000] DFHack v0.40.24-r5-0-g3330225 on OS X; cwd md5: c1bb43438e; save: region2; SC_MAP_LOADED; game type DWARF_MAIN (0)
 [2017-02-12T14:23:25+0000] DFHack v0.40.24-r5-0-g3330225 on OS X; cwd md5: c1bb43438e; save: region2; SC_MAP_UNLOADED; game type DWARF_MAIN (0)
 [2017-02-12T14:23:25+0000] DFHack v0.40.24-r5-0-g3330225 on OS X; cwd md5: c1bb43438e; save: region2; SC_WORLD_UNLOADED; game type DWARF_MAIN (0)
+[2017-02-12T15:19:09+0000] DFHack v0.40.24-r5-0-g3330225 on OS X; cwd md5: c1bb43438e; save: region2; SC_WORLD_LOADED; game type DWARF_MAIN (0)
+[2017-02-12T15:19:10+0000] DFHack v0.40.24-r5-0-g3330225 on OS X; cwd md5: c1bb43438e; save: region2; SC_MAP_LOADED; game type DWARF_MAIN (0)
+[2017-02-12T19:09:59+0000] DFHack v0.40.24-r5-0-g3330225 on OS X; cwd md5: c1bb43438e; save: region2; SC_MAP_UNLOADED; game type DWARF_MAIN (0)
+[2017-02-12T19:09:59+0000] DFHack v0.40.24-r5-0-g3330225 on OS X; cwd md5: c1bb43438e; save: region2; SC_WORLD_UNLOADED; game type DWARF_MAIN (0)

@@ -6,7 +6,7 @@ creature_domestic
 	[DESCRIPTION:A medium-sized highly social mammalian carnivore.  It has a keen sense of smell.  It can be trained to obey commands.]
 	[NAME:dog:dogs:canine]
 	[CASTE_NAME:dog:dogs:canine]
-	[CREATURE_TILE:86][ALTTILE:87][COLOR:7:1:1]
+	[CREATURE_TILE:'d'][COLOR:6:0:0]
 	[PETVALUE:30][NATURAL]
 	[LARGE_ROAMING]
 	[COMMON_DOMESTIC][TRAINABLE][PET]
